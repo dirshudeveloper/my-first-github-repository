@@ -1,3 +1,5 @@
-another file created in futere-1 branch.
+This line was replace in feature-2 branch
 
 This files was modified locally.
+
+This line was added in feature-2 branch
